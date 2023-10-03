@@ -1,6 +1,8 @@
 # Prazer me chamo Marcelo e seja bem vindo ao meu Github 👋
 
-#### Sou um apaixonado em programação e busco diariamente a melhor versão de mim mesmo!!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Apaixonado+por+tecnologia+;Fullstack+Developer+;Viciado+em+programa%C3%A7%C3%A3o+;Sempre+aprendendo+coisas+novas+)](https://git.io/typing-svg)
+
+### Sou um apaixonado em programação e busco diariamente a melhor versão de mim mesmo!!
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=devMahaw&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -11,7 +13,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="280" alt="coding-time" src="https://media3.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e47ekkwrs2ngvjyp3zunglpjoflwpynjjbcvahijxcd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+    <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px>
     <h1 align="center">Tríade do sucesso <3</h1>
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
