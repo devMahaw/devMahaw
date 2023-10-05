@@ -1,4 +1,4 @@
-# Prazer me chamo Marcelo e seja bem vindo ao meu Github 👋
+# Me chamo Marcelo e seja bem vindo ao meu Github 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Apaixonado+por+tecnologia+;Fullstack+Developer+;Viciado+em+programa%C3%A7%C3%A3o+;Sempre+aprendendo+coisas+novas+)](https://git.io/typing-svg)
 
