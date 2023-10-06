@@ -1,12 +1,21 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # Me chamo Marcelo e seja bem vindo ao meu Github 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Apaixonado+por+tecnologia+;Fullstack+Developer+;Viciado+em+programa%C3%A7%C3%A3o+;Sempre+aprendendo+coisas+novas+)](https://git.io/typing-svg)
 
-### Sou um apaixonado em programação e busco diariamente a melhor versão de mim mesmo!!
+<p align="center"> 
+  Contador de visitas<br>
+  <img src="https://profile-counter.glitch.me/devMahaw/count.svg" />
+</p>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim ✨**
+
+**Sobre programação? Como dizia Sócrates, só sei que nada sei. Mas de uma coisa eu sei, eu a amo.**
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=devMahaw&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMahaw&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=devMahaw&theme=transparent&show_icons=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMahaw&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
 <br>
