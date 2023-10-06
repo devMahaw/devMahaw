@@ -33,3 +33,5 @@
         </a>
 </div>
 
+![snake gif](https://github.com/devMahaw/devMahaw/blob/output/github-contribution-grid-snake.svg)
+
