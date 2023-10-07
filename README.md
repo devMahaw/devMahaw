@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Apaixonado+por+tecnologia+;Fullstack+Developer+;Viciado+em+programa%C3%A7%C3%A3o+;Sempre+aprendendo+coisas+novas+)](https://git.io/typing-svg)
 
-![blue](https://komarev.com/ghpvc/?username=devMahaw)
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim ✨**
 
 **Sobre programação? Como dizia Sócrates, só sei que nada sei. Mas de uma coisa eu sei, eu a amo.**
