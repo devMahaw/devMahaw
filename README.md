@@ -11,8 +11,8 @@
 **Sobre programação? Como dizia Sócrates, só sei que nada sei. Mas de uma coisa eu sei, eu a amo.**
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devMahaw&show_icons=true&count_private=true&hide_border=true&title_color=5228d7&icon_color=5228d7&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMahaw&layout=compact&hide_border=true&title_color=5228d7&text_color=7d5ee1&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devMahaw&show_icons=true&count_private=true&hide_border=true&title_color=3f75c0&icon_color=3f75c0&text_color=c9d1d9&bg_color=0d1117" alt="Marcelo Dantas Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMahaw&layout=compact&hide_border=true&title_color=3f75c0&text_color=3f75c0&bg_color=0d1117" />
 </div>
 
 <br>
