@@ -4,14 +4,13 @@
 
 # Me chamo Marcelo e seja bem vindo ao meu Github 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Apaixonado+por+tecnologia+;Fullstack+Developer+;Viciado+em+programa%C3%A7%C3%A3o+;Sempre+aprendendo+coisas+novas+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Fullstack+Developer)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim ✨**
 
-**Sobre programação? Como dizia Sócrates, só sei que nada sei. Mas de uma coisa eu sei, eu a amo.**
+**Faça da sua vida mais Responsiva**
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devMahaw&show_icons=true&count_private=true&hide_border=true&title_color=3f75c0&icon_color=3f75c0&text_color=c9d1d9&bg_color=0d1117" alt="Marcelo Dantas Github Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMahaw&layout=compact&hide_border=true&title_color=3f75c0&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
