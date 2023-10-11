@@ -2,13 +2,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Me chamo Marcelo e seja bem vindo ao meu Github 👋
+# Oi, me chamo Marcelo e seja bem vindo ao meu Github 😄
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Faça+sua+vida+mais+responsiva.)](https://git.io/typing-svg)
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim ✨**
 
-**Faça da sua vida mais "Responsiva".**
+Sou um Programador Fullstack. <br>
+No Front-end trabalho principalmente com HTML, CSS e Javascript incluindo as frameworks, bibliotecas e pré-processadores como React, jQuery, Gulp, SASS, etc... <br>
+No Back-end trabalho principalmente com Java e SQL incluindo as frameworks como Spring e Hibernate.
+Faço também versionamento de códigos com git <br>
+Sigo em constante aprendizado, dou 110% de mim e sigo sempre buscando o melhor de mim mesmo diariamente.
 
 <br>
 
