@@ -8,7 +8,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim ✨**
 
-**Faça da sua vida mais Responsiva**
+**Faça da sua vida mais "Responsiva".**
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMahaw&layout=compact&hide_border=true&title_color=3f75c0&text_color=c9d1d9&bg_color=0d1117" />
