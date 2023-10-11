@@ -11,7 +11,7 @@
 Sou um Programador Fullstack. <br>
 No Front-end trabalho principalmente com HTML, CSS e Javascript incluindo as frameworks, bibliotecas e pré-processadores como React, jQuery, Gulp, SASS, etc... <br>
 No Back-end trabalho principalmente com Java e SQL incluindo as frameworks como Spring e Hibernate.
-Faço também versionamento de códigos com git <br>
+Faço também versionamento de códigos com git. <br>
 Sigo em constante aprendizado, dou 110% de mim e sigo sempre buscando o melhor de mim mesmo diariamente.
 
 <br>
