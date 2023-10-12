@@ -14,11 +14,9 @@ No Back-end trabalho principalmente com Java e SQL incluindo as frameworks como 
 Faço também versionamento de códigos com git. <br>
 Sigo em constante aprendizado, dou 110% de mim e sigo sempre buscando o melhor de mim mesmo diariamente.
 
-<br>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <kbd align = "left"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif?raw=true" width = 350px></kbd>
+    <kbd align = "left"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif?raw=true" width = 350px></kbd>  
     <h1 align="center">Tríade do sucesso <3</h1>
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
