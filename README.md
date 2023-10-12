@@ -8,11 +8,10 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim ✨**
 
-Sou um Programador Fullstack. <br>
-No Front-end trabalho principalmente com HTML, CSS e Javascript incluindo as frameworks, bibliotecas e pré-processadores como React, jQuery, Gulp, SASS, etc... <br>
-No Back-end trabalho principalmente com Java e SQL incluindo as frameworks como Spring e Hibernate.
-Faço também versionamento de códigos com git. <br>
-Sigo em constante aprendizado, dou 110% de mim e sigo sempre buscando o melhor de mim mesmo diariamente.
+Trabalho principalmente com HTML, CSS, Javascript, Java e SQL incluindo as frameworks, bibliotecas e pré-processadores como: <br>
+Spring, Hibernate, React, jQuery, Gulp, SASS, etc... <br>
+Adicionalmente trabalho com versionamento de códigos com git e GitHub. <br>
+Sigo em constante aprendizado, dou 110% de mim e sigo sempre buscando o melhor de mim mesmo diariamente. <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
