@@ -8,7 +8,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim ✨**
 
-Sou um Desenvolvedor Full Stack, trabalho no front-end com a maioria das ferramentas mais utilizadas no mercado como React, Vue.js, Sass, Less, Gulp, Grunt, Typescript, Bootstrap, jQuery, bibliotecas React, etc...(além das que nem preciso citar claro, HTML, CSS e Javascript). <br>
+Sou um Desenvolvedor Full Stack, trabalho no front-end com a maioria das ferramentas mais utilizadas no mercado como React, Vue.js, Sass, Less, Gulp, Grunt, Typescript, Bootstrap, jQuery, Jest.js, bibliotecas React, etc...(além das que nem preciso citar claro, HTML, CSS e Javascript). <br>
 Já no Back-end trabalho com Java e suas ferramentas mais utilizadas no mercado como Spring Boot, Hibernate, JavaServer Faces, WildFly, Apache Tomcat, JUnit, Mockito, Apache Maven, Gradle, etc... <br>
 Trabalho também com banco de dados usando SQL e versionamento de código com git e github. <br>
 Dou 110% de mim sempre e amo este mundo da programação e me sinto no ramo certo sem dúvidas.
