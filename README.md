@@ -2,11 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Oi, me chamo Marcelo e seja bem vindo ao meu Github 😀
+# Olá, me chamo Marcelo e seja bem vindo ao meu Github
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Faça+a+sua+vida+mais+responsiva.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Faça+a+sua+vida+mais+responsiva)](https://git.io/typing-svg)
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim ✨**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
 
 Sou um Desenvolvedor Full Stack, trabalho no front-end com a maioria das ferramentas mais utilizadas no mercado como React, Vue.js, Sass, Less, Gulp, Grunt, Typescript, Bootstrap, jQuery, Jest.js, Babel, Cypress, bibliotecas React, etc...(além das que nem preciso citar claro, HTML, CSS e Javascript). <br>
 Já no Back-end trabalho com Java e suas ferramentas mais utilizadas no mercado como Spring Boot, Hibernate, JavaServer Faces, WildFly, Apache Tomcat, JUnit, Mockito, Apache Maven, Gradle, etc... <br>
@@ -16,7 +16,7 @@ Dou 110% de mim sempre e amo este mundo da programação e me sinto no ramo cert
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <kbd align = "left"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif?raw=true" width = 350px></kbd>  
-    <h1 align="center">Tríade do sucesso <3</h1>
+    <h1 align="center">Tríade do sucesso</h1>
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
