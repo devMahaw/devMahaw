@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Faça+a+sua+vida+mais+responsiva)](https://git.io/typing-svg)
 
-**Sobre mim**
+<h2>Sobre mim</h2>
 
 Sou um Desenvolvedor Full Stack, trabalho no front-end com a maioria das ferramentas mais utilizadas no mercado como React, Vue.js, NextJS, Sass, Less, Gulp, Grunt, Typescript, Bootstrap, jQuery, Jest.js, Babel, Cypress, bibliotecas React, etc...(além das que nem preciso citar claro, HTML, CSS e Javascript). <br>
 Já no Back-end trabalho com Java e suas ferramentas mais utilizadas no mercado como Spring Boot, Hibernate, JavaServer Faces, WildFly, Apache Tomcat, JUnit, Mockito, Apache Maven, Gradle, etc... <br>
